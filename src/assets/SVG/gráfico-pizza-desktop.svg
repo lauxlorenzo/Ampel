@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="628" height="636" viewBox="0 0 628 636">
+  <defs>
+    <filter id="Elipse_28" x="308" y="558" width="80" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_716" x="94" y="129" width="428" height="428" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_18" x="0" y="58" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_20" x="344" y="13" width="151" height="150" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_21" x="451" y="115" width="147" height="147" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-5"/>
+      <feFlood flood-opacity="0.153"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_27" x="417" y="512" width="102" height="101" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-6"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_26" x="483" y="383" width="128" height="127" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-7"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_22" x="501" y="259" width="127" height="127" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-8"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_19" x="183" y="0" width="162" height="162" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-9"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_396" data-name="Grupo 396" transform="translate(-766 -6025)">
+    <g transform="matrix(1, 0, 0, 1, 766, 6025)" filter="url(#Elipse_28)">
+      <ellipse id="Elipse_28-2" data-name="Elipse 28" cx="16" cy="15" rx="16" ry="15" transform="translate(332 572)" fill="#fff"/>
+    </g>
+    <text id="_1_0_" data-name="1,0%" transform="translate(1114 6617)" fill="#ff7c10" font-size="18" font-family="SpaceGrotesk-Bold, Space Grotesk" font-weight="700"><tspan x="-19.26" y="0">1,0%</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 766, 6025)" filter="url(#Caminho_716)">
+      <path id="Caminho_716-2" data-name="Caminho 716" d="M190,0C294.934,0,380,85.066,380,190S294.934,380,190,380,0,294.934,0,190,85.066,0,190,0Z" transform="translate(118 143)" fill="#fff"/>
+    </g>
+    <g id="Grupo_276" data-name="Grupo 276" transform="translate(325 1419)">
+      <g transform="matrix(1, 0, 0, 1, 441, 4606)" filter="url(#Elipse_18)">
+        <circle id="Elipse_18-2" data-name="Elipse 18" cx="71" cy="71" r="71" transform="translate(24 72)" fill="#fff" opacity="0.999"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 766, 6025)" filter="url(#Elipse_20)">
+      <ellipse id="Elipse_20-2" data-name="Elipse 20" cx="51.5" cy="51" rx="51.5" ry="51" transform="translate(368 27)" fill="#fff"/>
+    </g>
+    <text id="BIOMASSA" transform="translate(1186 6096)" font-size="16" font-family="SpaceGrotesk-SemiBold, Space Grotesk" font-weight="600"><tspan x="-39.632" y="0">BIOMASSA</tspan></text>
+    <text id="_7_9_" data-name="7,9%" transform="translate(1186 6120)" fill="#ff7c10" font-size="24" font-family="SpaceGrotesk-Bold, Space Grotesk" font-weight="700"><tspan x="-25.848" y="0">7,9%</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 766, 6025)" filter="url(#Elipse_21)">
+      <circle id="Elipse_21-2" data-name="Elipse 21" cx="49.5" cy="49.5" r="49.5" transform="translate(475 129)" fill="#ff7c10"/>
+    </g>
+    <g id="Grupo_298" data-name="Grupo 298" transform="translate(0 -2)">
+      <text id="SOLAR" transform="translate(1291 6198)" fill="#fff" font-size="16" font-family="SpaceGrotesk-SemiBold, Space Grotesk" font-weight="600"><tspan x="-24.72" y="0">SOLAR</tspan></text>
+      <text id="_7_6_" data-name="7,6%" transform="translate(1291 6223)" fill="#fff" font-size="24" font-family="SpaceGrotesk-Bold, Space Grotesk" font-weight="700"><tspan x="-25.752" y="0">7,6%</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 766, 6025)" filter="url(#Elipse_27)">
+      <ellipse id="Elipse_27-2" data-name="Elipse 27" cx="27" cy="26.5" rx="27" ry="26.5" transform="translate(441 526)" fill="#fff"/>
+    </g>
+    <text id="CARVÃO_MINERAL" data-name="CARVÃO
+MINERAL" transform="translate(1234 6532)" font-size="14" font-family="SpaceGrotesk-SemiBold, Space Grotesk" font-weight="600"><tspan x="-26.306" y="0">CARVÃO</tspan><tspan x="-29.183" y="13">MINERAL</tspan></text>
+    <text id="_1_8_" data-name="1,8%" transform="translate(1234 6584)" fill="#ff7c10" font-size="18" font-family="SpaceGrotesk-Bold, Space Grotesk" font-weight="700"><tspan x="-18.936" y="0">1,8%</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 766, 6025)" filter="url(#Elipse_26)">
+      <ellipse id="Elipse_26-2" data-name="Elipse 26" cx="40" cy="39.5" rx="40" ry="39.5" transform="translate(507 397)" fill="#fff"/>
+    </g>
+    <g id="Grupo_265" data-name="Grupo 265" transform="translate(755.32 1181.593)">
+      <text id="IMPORTAÇÃO" transform="translate(557.68 5277.406)" font-size="14" font-family="SpaceGrotesk-SemiBold, Space Grotesk" font-weight="600"><tspan x="-42.812" y="0">IMPORTAÇÃO</tspan></text>
+      <text id="_4_1_" data-name="4,1%" transform="translate(557.68 5295.406)" fill="#ff7c10" font-size="18" font-family="SpaceGrotesk-Bold, Space Grotesk" font-weight="700"><tspan x="-18.792" y="0">4,1%</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 766, 6025)" filter="url(#Elipse_22)">
+      <circle id="Elipse_22-2" data-name="Elipse 22" cx="39.5" cy="39.5" r="39.5" transform="translate(525 273)" fill="#fff"/>
+    </g>
+    <text id="PETRÓLEO" transform="translate(1330 6335)" font-size="14" font-family="SpaceGrotesk-SemiBold, Space Grotesk" font-weight="600"><tspan x="-33.782" y="0">PETRÓLEO</tspan></text>
+    <text id="_4_5_" data-name="4,5%" transform="translate(1330 6353)" fill="#ff7c10" font-size="18" font-family="SpaceGrotesk-Bold, Space Grotesk" font-weight="700"><tspan x="-20.592" y="0">4,5%</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 766, 6025)" filter="url(#Elipse_19)">
+      <circle id="Elipse_19-2" data-name="Elipse 19" cx="57" cy="57" r="57" transform="translate(207 14)" fill="#fff"/>
+    </g>
+    <g id="Grupo_268" data-name="Grupo 268" transform="translate(317 1276)">
+      <text id="GÁS_NATURAL" data-name="GÁS
+NATURAL" transform="translate(713 4808)" font-size="16" font-family="SpaceGrotesk-SemiBold, Space Grotesk" font-weight="600"><tspan x="-15.208" y="0">GÁS</tspan><tspan x="-34.408" y="14">NATURAL</tspan></text>
+      <text id="_8_1_" data-name="8,1%" transform="translate(713 4846)" fill="#ff7c10" font-size="24" font-family="SpaceGrotesk-Bold, Space Grotesk" font-weight="700"><tspan x="-24.624" y="0">8,1%</tspan></text>
+    </g>
+    <text id="NUCLEAR" transform="translate(1114 6591)" font-size="14" font-family="SpaceGrotesk-SemiBold, Space Grotesk" font-weight="600"><tspan x="-30.422" y="0">NUCLEAR</tspan></text>
+    <text id="EÓLICA" transform="translate(861 6161)" font-size="16" font-family="SpaceGrotesk-SemiBold, Space Grotesk" font-weight="600"><tspan x="-26.4" y="0">EÓLICA</tspan></text>
+    <text id="HÍDRICA" transform="translate(1074 6349)" font-size="20" font-family="SpaceGrotesk-SemiBold, Space Grotesk" font-weight="600"><tspan x="-37.39" y="0">HÍDRICA</tspan></text>
+    <text id="_10_7_" data-name="10,7%" transform="translate(861 6185)" fill="#ff7c10" font-size="24" font-family="SpaceGrotesk-Bold, Space Grotesk" font-weight="700"><tspan x="-31.92" y="0">10,7%</tspan></text>
+    <text id="_54_3_" data-name="54,3%" transform="translate(1074 6378)" fill="#ff7c10" font-size="30" font-family="SpaceGrotesk-Bold, Space Grotesk" font-weight="700"><tspan x="-43.44" y="0">54,3%</tspan></text>
+  </g>
+</svg>
