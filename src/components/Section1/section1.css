@@ -12,11 +12,17 @@
 .section1-title p {
   color: var(--orange);
   font-size: 0.8rem;
+  font-weight: 500;
+
+  position: relative;
+  top: 1.6rem;
 }
-.section1-title h1 pre {
+.section1-title h1 {
   color: var(--black);
   font-size: 1.8rem;
-  font-weight: 500;
+  font-weight: 400;
+
+  text-indent: 15rem;
 }
 
 .section1-text {
@@ -31,6 +37,7 @@
   font-size: 0.8rem;
   max-width: 10rem;
   margin-right: 4rem;
+  font-weight: 400;
 }
 
 .section1-image img {

@@ -5,7 +5,7 @@ import bg2 from '../../assets/Imagens/Desktop/Bg-2.jpg'
 
 function Section2() {
   return (
-    <div className='Section2'>
+    <div className='Section2' id='sobre'>
 
       <div className='section2-image'>
         <img src={bg2} alt="" />

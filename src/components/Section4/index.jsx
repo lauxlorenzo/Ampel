@@ -11,7 +11,7 @@ import icon7 from '../../assets/SVG/7.svg'
 
 function Section4() {
   return (
-    <div className='Section4'>
+    <div className='Section4' id='solucoes'>
       <div className='section4-title'>
         <p>SOLUÇÕES</p>
 

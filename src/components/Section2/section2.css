@@ -25,16 +25,17 @@
   font-weight: 400;
   color: var(--orange);
   font-size: 0.8rem;
+  font-weight: 500;
 }
 
 .section2-description p {
   font-weight: 400;
   font-size: 1.8rem;
-  margin-top: 8px;
+  margin-top: 1rem;
 }
 
 .section2-description p:last-child {
-  font-weight: 100;
+  font-weight: 400;
   font-size: 0.8rem;
   max-width: 60%;
 }

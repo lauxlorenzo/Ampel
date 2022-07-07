@@ -23,7 +23,54 @@
 }
 
 .section11-contact h1 {
-  font-weight: 700;
+  font-weight: 600;
+}
+
+.section11-contact p {
+  padding-top: 0.6rem;
+  font-weight: 400;
+}
+
+.section11-contact form {
+  padding-top: 2rem;
+}
+
+.section11-contact form input {
+  width: 100%;
+  border: solid 1px rgba(0, 0, 0, 0.2);
+  padding: 0.8rem;
+  color: var(--black);
+
+  margin-top: 1rem;
+}
+
+.section11-contact form textarea {
+  width: 100%;
+  border: solid 1px rgba(0, 0, 0, 0.2);
+  padding: 1.6rem 0.8rem 8rem 0.8rem;
+
+  margin-top: 1rem;
+  resize: none;
+
+  font: inherit;
+}
+
+.section11-contact form input:hover,
+.section11-contact form input:focus,
+.section11-contact form textarea:hover,
+.section11-contact form textarea:focus {
+  outline: none;
+  border-color: rgba(0, 0, 0, 0.4);
+}
+
+.section11-contact form button {
+  margin-top: 1rem;
+  padding: 0.8rem 3rem;
+  outline: none;
+  border: 0;
+  
+  color: var(--white);
+  background-color: var(--black);
 }
 
 .section11-infos {
@@ -36,13 +83,14 @@
 }
 
 .section11-infos h1 {
-  font-size: 1rem;
-  font-weight: 600;
+  font-size: 1.4rem;
+  font-weight: 500;
 }
 
 .section11-infos p {
-  font-size: 0.8rem;
-  padding-bottom: 4rem;
+  font-size: 1rem;
+  padding: 0.6rem 0 4rem 0;
+  font-weight: 400;
 }
 
 .infos-content {
@@ -75,6 +123,7 @@
 
 .links .terms a {
   margin-top: 0.2rem;
+  font-weight: 300;
 }
 
 .links .social {
@@ -82,7 +131,7 @@
 }
 
 .links .social a {
-  font-weight: 600;
+  font-weight: 500;
   padding-right: 1rem;
 }
 

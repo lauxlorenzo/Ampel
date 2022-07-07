@@ -69,6 +69,7 @@
 .card5 h1, 
 .card6 h1  {
   font-size: 1.4rem;
+  font-weight: 500;
 }
 
 .card1 h1 p, 
@@ -98,9 +99,9 @@
 .card5 div:last-child p, 
 .card6 div:last-child p {
   font-size: 0.8rem;
-  font-weight: 300;
+  font-weight: 400;
 
-  margin-left: 2.1rem;
+  padding: 1rem 8rem 0 2.1rem;
 }
 
 .card1 div:first-child p, 

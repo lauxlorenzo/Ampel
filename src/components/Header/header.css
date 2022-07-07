@@ -40,6 +40,15 @@
   padding: 0 0 4rem 4rem;
 }
 
+.header-menu-item {
+  color: var(--white);
+  font-weight: 100;
+  font-size: 0.8rem;
+  letter-spacing: 2px;
+
+  text-decoration: none;
+}
+
 .header-menu ul {
   list-style: none;
 }

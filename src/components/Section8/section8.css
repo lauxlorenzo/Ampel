@@ -8,7 +8,7 @@
 }
 
 .section8-title p {
-  font-weight: 400;
+  font-weight: 500;
   color: var(--orange);
   font-size: 0.8rem;
 }
@@ -35,7 +35,11 @@
 
 .section8-groups div h1 {
   font-size: 1rem;
-  font-weight: 500;
+  font-weight: 700;
+}
+
+.section8-groups div p {
+  font-weight: 400;
 }
 
 .section8-readmore {

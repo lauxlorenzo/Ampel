@@ -1,5 +1,6 @@
 import React from 'react'
 import './header.css'
+import AnchorLink from 'react-anchor-link-smooth-scroll-v2'
 
 import Logo from '../../assets/SVG/logo.svg'
 
@@ -16,10 +17,10 @@ function Header() {
       <div className='bottom'>
         <div className='header-menu'>
           <ul>
-            <li>SOBRE NÓS</li>
-            <li>SOLUÇÕES</li>
-            <li>ENERGIA LIMPA</li>
-            <li>CONTATO</li>
+            <li><AnchorLink href='#sobre' className='header-menu-item'>SOBRE NÓS</AnchorLink></li>
+            <li><AnchorLink href='#solucoes' className='header-menu-item'>SOLUÇÕES</AnchorLink></li>
+            <li><AnchorLink href='#energia' className='header-menu-item'>ENERGIA LIMPA</AnchorLink></li>
+            <li><AnchorLink href='#contato' className='header-menu-item'>CONTATO</AnchorLink></li>
           </ul>
         </div>
 

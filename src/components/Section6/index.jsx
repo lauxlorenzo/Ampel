@@ -7,7 +7,7 @@ function Section6() {
   return (
     <div className='Section6'>
       <div className='section6-title'>
-        <p>SOLUÇÕES</p>
+        <p>CENÁRIO ENERGÉTICO NO BRASIL</p>
 
         <h1>
           Segundo estudo de 2021 

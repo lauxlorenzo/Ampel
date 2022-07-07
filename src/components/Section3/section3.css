@@ -9,17 +9,23 @@
 }
 
 .section3-title p {
-  font-weight: 400;
+  font-weight: 500;
   color: var(--orange);
   font-size: 0.8rem;
+
+  position: relative;
+  top: 1.6rem;
 }
 
 .section3-title h1 {
   font-size: 1.8rem;
   font-weight: 400;
   padding-right: 4rem;
+
+  text-indent: 37rem;
 }
 
 .section3-description p {
   font-size: 0.8rem;
+  font-weight: 400;
 }

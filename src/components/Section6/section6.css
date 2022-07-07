@@ -13,9 +13,12 @@
 }
 
 .section6-title p {
-  font-weight: 400;
+  font-weight: 500;
   color: var(--orange);
   font-size: 0.8rem;
+
+  position: relative;
+  top: 1.6rem;
 }
 
 .section6-title p:last-child {
@@ -28,6 +31,8 @@
   font-weight: 400;
   font-size: 1.8rem;
   max-width: 80%;
+
+  text-indent: 15rem;
 }
 
 .section6-title img {
@@ -47,5 +52,5 @@
   left: 30%;
 
   font-size: 1rem;
-  font-weight: 100;
+  font-weight: 400;
 }

@@ -7,7 +7,7 @@
 }
 
 .section7-title p {
-  font-weight: 400;
+  font-weight: 500;
   color: var(--orange);
   font-size: 0.8rem;
 }
@@ -41,6 +41,7 @@
 .section-legends p {
   font-size: 0.8rem;
   margin-right: 2rem;
+  font-weight: 400;
 }
 
 .section-legends div {
@@ -71,4 +72,5 @@
 .section-fonte p {
   color: rgba(0, 0, 0, 0.6);
   font-size: 0.8rem;
+  font-weight: 400;
 }

@@ -5,7 +5,7 @@ import './section9.css'
 function Section9() {
 
   return (
-    <div className='Section9'>
+    <div className='Section9' id='energia'>
 
       <div className='section9-title'>
         <h1>
