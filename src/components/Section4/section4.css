@@ -67,3 +67,39 @@
 .section4-linha2 div:last-child {
   border-right: solid 1px rgba(0, 0, 0, 0.2);
 }
+
+
+/* Responsividade */
+
+@media (max-width: 1170px) {
+  .section4-title {
+    margin-bottom: 0;
+  }
+  .section4-linha1 div {
+    width: calc(100% / 3);
+  }
+  .section4-linha2 {
+    flex-wrap: wrap;
+  }
+
+  .section4-linha2 div {
+    width: calc(100% / 3);
+  }
+}
+
+@media (max-width: 840px) {
+  .section4-linha1 {
+    padding-top: 2rem;
+  }
+  .section4-linha1 div {
+    width: calc(100% / 2);
+  }
+
+  .section4-linha2 div {
+    width: calc(100% / 2);
+  }
+
+  .section4-title h1 {
+    max-width: 100%;
+  }
+}

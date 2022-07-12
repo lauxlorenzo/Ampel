@@ -19,3 +19,18 @@
 .Section5 h1 {
   font-weight: 600;
 }
+
+
+/* Responsividade */
+
+@media (max-width: 840px) {
+  .Section5 {
+    background: no-repeat center/cover url('../../assets/Imagens/Mobile/Bg-3.jpg');
+    flex-direction: column;
+  }
+
+  .Section5 p {
+    padding: 2rem 0 0 6rem;
+    font-size: 1rem;
+  }
+}

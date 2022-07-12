@@ -29,3 +29,29 @@
   font-size: 0.8rem;
   font-weight: 400;
 }
+
+
+/* Responsividade */
+
+@media (max-width: 1230px) {
+  .section3-title p {
+    position: relative;
+    top: 0;
+  }
+
+  .section3-title h1 {
+    text-indent: 0;
+  }
+}
+
+@media (max-width: 990px) {
+  .Section3 {
+    flex-direction: column;
+  }
+
+  .section3-description p {
+    font-size: 1.2rem;
+    padding-top: 2.4rem;
+    max-width: 20rem;
+  }
+}

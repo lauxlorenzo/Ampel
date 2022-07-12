@@ -14,16 +14,14 @@ function Section9() {
         </h1>
 
         <p>
-          A excelente irradiação solar presente na <br/> 
-          grande maioria do território brasileiro faz <br/>
-          do país um dos mais privilegiados para o <br/>
+          A excelente irradiação solar presente na  
+          grande maioria do território brasileiro faz 
+          do país um dos mais privilegiados para o 
           crescimento e liderança na energia solar.
         </p>
       </div>
 
       <div className='section9-cards'>
-        <div className='section9-line1'>
-
           <div className='card1'>
             <div>
               <p>01</p>
@@ -69,10 +67,6 @@ function Section9() {
             </div>
           </div>
 
-        </div>
-
-        <div className='section9-line2'>
-
           <div className='card4'>
             <div>
               <p>04</p>
@@ -116,8 +110,6 @@ function Section9() {
               </p>
             </div>
           </div>
-
-        </div>
 
       </div>
     </div>

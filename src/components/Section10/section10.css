@@ -5,3 +5,9 @@
 
   padding: 15rem 4rem;
 }
+
+@media (max-width: 840px) {
+  .Section10 {
+    padding: 20rem 4rem;
+  }
+}

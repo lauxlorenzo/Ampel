@@ -14,7 +14,7 @@ function Section2() {
       <div className='section2-description'>
         <p>A AMPEL</p>
 
-        <p>
+        <p className='description-title'>
           Somos uma empresa de consultoria
           e assessoria em energia elétrica nos
           ambientes livre e regulado,

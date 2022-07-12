@@ -21,13 +21,17 @@
 .section9-title p {
   font-weight: 400;
   font-size: 1rem;
+  max-width: 20%;
 }
 
 .section9-cards {
   width: 100%;
 
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  padding-bottom: 4rem;
 }
 
 .section9-line1 {
@@ -49,7 +53,7 @@
 .card4, 
 .card5, 
 .card6 {
-  width: calc(100vw / 3);
+  width: calc(100% / 3);
 
   padding: 4rem 2rem;
   border: 1px solid rgba(0, 0, 0, 0.2);
@@ -114,3 +118,62 @@
   font-weight: 500;
   margin-right: 1rem;
 }
+
+
+/* Responsividade */
+
+@media (max-width: 1000px) {
+  .card1 div:last-child p, 
+  .card2 div:last-child p, 
+  .card3 div:last-child p,
+  .card4 div:last-child p, 
+  .card5 div:last-child p, 
+  .card6 div:last-child p {
+    padding: 1rem 6rem 0 2.1rem;
+  }
+}
+
+@media (max-width: 840px) {
+  .section9-title {
+    flex-direction: column;
+    align-items: flex-start;
+  
+    padding: 6rem 4rem 6rem 2rem;
+  }
+
+  .section9-title h1 {
+    font-weight: 600;
+    font-size: 2rem;
+  }
+  
+  .section9-title p {
+    font-weight: 400;
+    font-size: 1.2rem;
+    max-width: 100%;
+
+    padding-top: 2rem;
+  }
+
+  .card1, 
+  .card2, 
+  .card3,
+  .card4, 
+  .card5, 
+  .card6 {
+    width: calc(100% / 2);
+  }
+}
+
+@media (max-width: 600px) {
+  .card1, 
+  .card2, 
+  .card3,
+  .card4, 
+  .card5, 
+  .card6 {
+    width: 100%;
+  }
+}
+
+
+

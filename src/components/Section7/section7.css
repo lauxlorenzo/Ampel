@@ -44,7 +44,12 @@
   font-weight: 400;
 }
 
-.section-legends div {
+.legend {
+  display: flex;
+
+}
+
+.legend div {
   width: 15px;
   height: 15px;
   margin-right: 5px;
@@ -73,4 +78,96 @@
   color: rgba(0, 0, 0, 0.6);
   font-size: 0.8rem;
   font-weight: 400;
+}
+
+.swipe-right {
+  display: flex;
+  padding-top: 4rem;
+
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: 3px;
+  color: var(--orange);
+
+  visibility: hidden;
+}
+
+.swipe-right img {
+  width: 15px;
+  margin-left: 20px;
+}
+
+
+/* Responsividade */
+
+@media (max-width: 840px) {
+  .section7-title p {
+    font-size: 1rem;
+  }
+
+  .section7-title h1 {
+    font-size: 1.8rem;
+    max-width: 100%;
+    padding-top: 1rem;
+  }
+
+  .section7-graph {
+    overflow-x: auto;
+  }
+
+  .section7-graph::-webkit-scrollbar {
+    height: 3px;
+  }
+  
+  .section7-graph::-webkit-scrollbar-track {
+    background: #c5c5c5;
+  }
+  
+  .section7-graph::-webkit-scrollbar-thumb {
+    background-color: var(--orange);
+    border-radius: 20px;
+  }
+
+  .section7-graph img {
+    width: 80rem;
+    padding-bottom: 2rem;
+  }
+
+  .section7-legend {
+    flex-direction: column-reverse;
+  }
+
+  .section-legends {
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .legend {
+    display: flex;
+    align-items: center;
+    padding-top: 1rem;
+  }
+
+  .legend p {
+    font-size: 1.4rem;
+    margin: 0;
+    padding-left: 0.6rem;
+  }
+
+  .legend div {
+    width: 30px;
+    height: 30px;
+  }
+
+  .section-fonte p {
+    font-size: 1rem;
+    float: right;
+
+    padding-top: 2rem;
+  }
+
+  .swipe-right {
+    visibility: visible;
+  }
 }

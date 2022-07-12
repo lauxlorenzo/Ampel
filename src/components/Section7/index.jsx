@@ -2,6 +2,7 @@ import React from 'react'
 import './section7.css'
 
 import Graph from '../../assets/SVG/gráfico-desktop.svg'
+import Arrow from '../../assets/SVG/seta.svg'
 
 function Section7() {
   return (
@@ -17,6 +18,11 @@ function Section7() {
         </h1>
       </div>
 
+      <div className='swipe-right'>
+        <p>ARRASTE PARA O LADO </p>
+        <img src={Arrow} alt="" />
+      </div>
+
       <div className='section7-graph'>
         <img src={Graph} alt="" />
       </div>
@@ -27,17 +33,25 @@ function Section7() {
         </div>
 
         <div className='section-legends'>
-          <div className='light-gray' />
-          <p>GERAÇÃO DISTRIBUIDA</p>
+          <div className='legend'>
+            <div className='light-gray' />
+            <p>GERAÇÃO DISTRIBUIDA</p>
+          </div>
 
-          <div className='gray' />
-          <p>GERAÇÃO CENTRALIZADA</p>
+          <div className='legend'>
+            <div className='gray' />
+            <p>GERAÇÃO CENTRALIZADA</p>
+          </div>
 
-          <div className='orange' />
-          <p>MÉDIA DE CRESCIMENTO</p>
+          <div className='legend'>
+            <div className='orange' />
+            <p>MÉDIA DE CRESCIMENTO</p>
+          </div>
 
-          <div className='light-orange' />
-          <p>PREVISÃO DE CRESCIMENTO</p>
+          <div className='legend'>
+            <div className='light-orange' />
+            <p>PREVISÃO DE CRESCIMENTO</p>
+          </div>
         </div>
       </div>
     </div>

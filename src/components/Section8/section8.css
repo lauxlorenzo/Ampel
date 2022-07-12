@@ -61,5 +61,48 @@
 
 .section8-separator {
   border-bottom: solid 1px var(--white);
-  margin-top: 3rem;
+  /* margin-top: 3rem; */
+  padding-bottom: 3rem;
+}
+
+
+/* Responsividade */
+
+@media (max-width: 840px) {
+  .section8-title {
+    padding-bottom: 4rem;
+  }
+  .section8-title p {
+    font-size: 1.2rem;
+    max-width: 80%;
+  }
+  
+  .section8-title h1 {
+    font-weight: 400;
+    font-size: 1.8rem;
+    margin-top: 1rem;
+    max-width: 80%;
+  }
+
+  .section8-groups {
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+  }
+
+  .section8-groups div {
+    width: 100%;
+  }
+
+  .section8-groups div:first-child {
+    margin: 4rem 0 4rem 0;
+  }
+
+  .section8-groups div h1 {
+    font-size: 1.6rem;
+  }
+  
+  .section8-readmore {
+    font-size: 1.4rem;
+  }
 }
