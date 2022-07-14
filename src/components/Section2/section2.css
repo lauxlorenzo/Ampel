@@ -78,11 +78,11 @@
 
 @media (max-width: 840px) {
   .section2-description {
-    padding-top: 3rem;
+    padding: 3rem 2rem 0 2rem;
   }
 
   .description-title {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
   }
   .Section2 {
     max-width: 100vw;

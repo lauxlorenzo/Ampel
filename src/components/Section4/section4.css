@@ -88,6 +88,9 @@
 }
 
 @media (max-width: 840px) {
+  .Section4 {
+    padding: 4rem 0;
+  }
   .section4-linha1 {
     padding-top: 2rem;
   }
@@ -98,8 +101,13 @@
   .section4-linha2 div {
     width: calc(100% / 2);
   }
+  .section4-title {
+    padding: 0 2rem;
+  }
 
   .section4-title h1 {
     max-width: 100%;
+    padding: 1rem 0 0 0;
+    font-size: 1.6rem;
   }
 }

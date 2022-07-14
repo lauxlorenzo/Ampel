@@ -146,12 +146,14 @@
   .section11-content {
     flex-direction: column;
   
-    padding: 0 4rem 0 4rem;
+    padding: 0 2rem 0 2rem;
   }
 
   .section11-contact {
     max-width: 100%;
     width: 100%;
+
+    padding: 4rem 2rem;
   }
 
   .section11-infos {
@@ -163,5 +165,17 @@
 
   .links .social {
     padding-right: 1rem;
+  }
+
+  .infos-content {
+    padding: 4rem 2rem;
+  } 
+
+  .links .terms {
+    padding: 2rem;
+  }
+  
+  .links .terms a {
+    margin-top: 0.4rem;
   }
 }

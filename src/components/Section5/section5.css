@@ -27,6 +27,8 @@
   .Section5 {
     background: no-repeat center/cover url('../../assets/Imagens/Mobile/Bg-3.jpg');
     flex-direction: column;
+
+    padding: 4rem 2rem 28rem 2rem;
   }
 
   .Section5 p {

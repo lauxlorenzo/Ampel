@@ -26,19 +26,19 @@ function Section4() {
 
       <div className='section4-linha1'>
         <div>
-          <img src={icon1} alt="" />
+          <img src={icon2} alt="" />
           <p>Assessoria Jurídica e Ambiental</p>
         </div>
       </div>
 
       <div className='section4-linha2'>
           <div>
-            <img src={icon1} alt="" />
+            <img src={icon6} alt="" />
             <p>Consultoria</p>
           </div>
 
           <div>
-            <img src={icon1} alt="" />
+            <img src={icon3} alt="" />
             <p>Negociação</p>
           </div>
 
@@ -48,17 +48,17 @@ function Section4() {
           </div>
 
           <div>
-            <img src={icon1} alt="" />
+            <img src={icon4} alt="" />
             <p>Contratualização</p>
           </div>
 
           <div>
-            <img src={icon1} alt="" />
+            <img src={icon7} alt="" />
             <p>Desenvolvimento de projetos</p>
           </div>
 
           <div>
-            <img src={icon1} alt="" />
+            <img src={icon5} alt="" />
             <p>EPC</p>
           </div>
       </div>

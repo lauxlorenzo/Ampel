@@ -53,11 +53,9 @@
     top: 0;
   }
   .section1-title h1 {
-    color: var(--black);
     font-size: 1.8rem;
-    font-weight: 400;
-  
     text-indent: 0;
+    padding-top: 1rem;
   }
 }
 
@@ -76,17 +74,21 @@
   }
 
   .section1-title {
-    padding: 0 4rem;
+    padding: 0 2rem;
+  }
+
+  .section1-title h1 {
+    font-size: 1.6rem;
   }
 
   .section1-text {
     flex-direction: column;
     float: none;
-    padding: 0 4rem;
+    padding: 0 2rem;
   }
 
   .section1-text p {
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin: 0;
 
     max-width: 40rem;
@@ -95,6 +97,7 @@
 
   .section1-image {
     width: 100vw;
+    margin-bottom: -5px;
   }
 
   .section1-image img {

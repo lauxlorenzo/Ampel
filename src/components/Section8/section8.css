@@ -69,19 +69,23 @@
 /* Responsividade */
 
 @media (max-width: 840px) {
+  .Section8 {
+    padding: 4rem 2rem;
+  }
+
   .section8-title {
-    padding-bottom: 4rem;
+    padding-bottom: 2rem;
   }
   .section8-title p {
-    font-size: 1.2rem;
+    font-size: 0.8rem;
     max-width: 80%;
   }
   
   .section8-title h1 {
     font-weight: 400;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     margin-top: 1rem;
-    max-width: 80%;
+    max-width: 100%;
   }
 
   .section8-groups {
@@ -99,10 +103,14 @@
   }
 
   .section8-groups div h1 {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
+  }
+
+  .section8-groups div p {
+    font-size: 1.4rem;
   }
   
   .section8-readmore {
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
 }

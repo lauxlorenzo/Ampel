@@ -24,10 +24,10 @@ function Section6() {
 
       <div className='section6-description'>
         <p>
-          Como a demanda energética deverá ser <br/>
-          superior à oferta, assim como para <br/>
-          baratear o custo da energia, o Brasil <br/>
-          precisará incrementar e pulverizar a sua <br/>
+          Como a demanda energética deverá ser 
+          superior à oferta, assim como para 
+          baratear o custo da energia, o Brasil 
+          precisará incrementar e pulverizar a sua 
           matriz energética.
         </p>
       </div>

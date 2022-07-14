@@ -12,7 +12,7 @@ function Section1() {
           <p>OPORTUNUNIDADE</p>
 
           <h1>
-            Conhecer o ambiente<br/> 
+            Conhecer o ambiente <br/>
             energético é principal para o melhor e<br/>
             mais econômico uso e gestão da energia<br/>
             em seu negócio.
