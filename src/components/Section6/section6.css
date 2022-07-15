@@ -95,6 +95,7 @@
 
   .section6-title h1 {
     font-size: 1.6rem;
+    max-width: 100%;
   }
   .section6-description {
     align-items: flex-start;
@@ -112,10 +113,6 @@
     font-weight: 400;
   
     padding: 0;
-  }
-
-  .section6-title h1 {
-    max-width: 100%;
   }
 }
 

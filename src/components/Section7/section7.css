@@ -10,12 +10,17 @@
   font-weight: 500;
   color: var(--orange);
   font-size: 0.8rem;
+
+  position: relative;
+  top: 1.6rem;
 }
 
 .section7-title h1 {
   font-weight: 400;
   font-size: 1.8rem;
   max-width: 80%;
+
+  text-indent: 25rem;
 }
 
 .section7-graph img {
@@ -106,12 +111,18 @@
   }
   .section7-title p {
     font-size: 0.8rem;
+
+    display: block;
+    top: 0;
+    left: 0;
   }
 
   .section7-title h1 {
     font-size: 1.6rem;
     max-width: 100%;
     padding-top: 1rem;
+
+    text-indent: 0;
   }
 
   .section7-graph {

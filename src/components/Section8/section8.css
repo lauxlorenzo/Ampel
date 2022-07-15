@@ -57,6 +57,13 @@
 
   float: right;
   margin-top: 2rem;
+
+  border: 0;
+}
+
+.section8-readbtn:hover {
+  opacity: 80%;
+  transition: ease 0.2s;
 }
 
 .section8-separator {
