@@ -154,7 +154,7 @@
     max-width: 100%;
     width: 100%;
 
-    padding: 4rem 2rem;
+    padding: 6rem 2rem;
   }
 
   .section11-infos {
@@ -164,7 +164,13 @@
     border-top: solid 1px rgba(0, 0, 0, 0.2);
   }
 
+  .links {
+    padding: 0;
+  }
+
   .links .social {
+    display: flex;
+    flex-direction: column;
     padding-right: 1rem;
   }
 

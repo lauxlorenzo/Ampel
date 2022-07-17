@@ -12,6 +12,7 @@ function Section11() {
           <p>Juntos, encontraremos a melhor forma de potencializar sua economia de energia.</p>
 
           <form action="https://formsubmit.co/lorenzolaux05@gmail.com" method="POST">
+            <input type="hidden" name="_next" value="/#"/>
             <input type="text" name="name" placeholder="Nome" required/>
             <input type="email" name="email" placeholder="Email" required/>
             <textarea type="message" name="message" placeholder="Descrição (opcional)"/>

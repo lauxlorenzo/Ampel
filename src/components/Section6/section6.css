@@ -90,7 +90,7 @@
 @media (max-width: 840px) {
   .Section6 {
     flex-direction: column;
-    padding: 4rem 2rem;
+    padding: 6rem 2rem;
   }
 
   .section6-title h1 {
@@ -110,7 +110,7 @@
     left: 0;
   
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 100;
   
     padding: 0;
   }

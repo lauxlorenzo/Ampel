@@ -71,6 +71,16 @@
 
 /* Responsividade */
 
+@media (min-width: 1350px) {
+  .section4-linha1 div {
+    padding: 4.2rem 3rem 4.2rem 3rem;
+  }
+
+  .section4-linha2 div {
+    padding: 4.2rem 3rem 4rem 3rem;
+  }
+}
+
 @media (max-width: 1170px) {
   .section4-title {
     margin-bottom: 0;
@@ -89,7 +99,7 @@
 
 @media (max-width: 840px) {
   .Section4 {
-    padding: 4rem 0;
+    padding: 6rem 0;
   }
   .section4-linha1 {
     padding-top: 2rem;

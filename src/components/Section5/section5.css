@@ -33,11 +33,11 @@
     background: no-repeat center/cover url('../../assets/Imagens/Mobile/Bg-3.jpg');
     flex-direction: column;
 
-    padding: 4rem 2rem 30rem 2rem;
+    padding: 6rem 2rem 30rem 2rem;
   }
 
   .section5-description p {
-    padding: 3rem 0 0 4rem;
+    padding-top: 3rem;
     font-size: 1rem;
     width: 60%;
   }

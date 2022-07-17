@@ -21,7 +21,7 @@
 .section9-title p {
   font-weight: 400;
   font-size: 1rem;
-  max-width: 20%;
+  max-width: 30%;
 }
 
 .section9-cards {
@@ -162,6 +162,10 @@
   .card6 {
     width: calc(100% / 2);
   }
+
+  .card3 {
+    border-top: 0;
+  }
 }
 
 @media (max-width: 600px) {
@@ -172,6 +176,10 @@
   .card5, 
   .card6 {
     width: 100%;
+  }
+
+  .card2 {
+    border-top: 0;
   }
 }
 

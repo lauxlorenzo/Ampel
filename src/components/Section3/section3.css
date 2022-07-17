@@ -5,7 +5,7 @@
   flex-direction: row;
   /* align-items: center; */
 
-  padding: 10rem 4rem 10rem 4rem;
+  padding: 15rem 4rem 15rem 4rem;
 }
 
 .section3-title p {
@@ -28,6 +28,7 @@
 .section3-description p {
   font-size: 0.8rem;
   font-weight: 400;
+  margin-top: 1rem;
 }
 
 
@@ -47,7 +48,7 @@
 @media (max-width: 990px) {
   .Section3 {
     flex-direction: column;
-    padding: 4rem 2rem;
+    padding: 6rem 2rem;
   }
 
   .section3-description p {

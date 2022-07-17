@@ -43,13 +43,14 @@
 .header-menu-item {
   color: var(--white);
   font-weight: 100;
-  font-size: 0.8rem;
+  font-size: 1rem;
   letter-spacing: 2px;
 
   text-decoration: none;
 
   display: block;
   padding: 10px;
+  margin-left: -10px;
 
   cursor: pointer;
 }
@@ -77,18 +78,30 @@
   .bottom {
     flex-direction: column;
     align-items: flex-start;
-    padding-left: 1.6rem;
+    padding-left: 2rem;
+  }
+
+  .header-menu-item {
+    font-weight: 400;
   }
 
   .header-menu {
-    padding: 0 0 4rem 1rem;
+    padding: 4rem 0 4rem 0;
+  }
+
+  .header-menu ul li {
+    margin-top: 1rem;
   }
 
   .header-title {
-    padding: 0 0 6rem 1rem;
+    padding: 0 0 6rem 0;
   }
 
   .header-logo {
     padding: 2rem;
+  }
+
+  .header-logo img {
+    width: 35%;
   }
 }
