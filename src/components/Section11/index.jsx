@@ -1,4 +1,5 @@
 import React from 'react'
+import { useState } from 'react';
 import './section11.css'
 
 
@@ -12,10 +13,14 @@ function Section11() {
           <p>Juntos, encontraremos a melhor forma de potencializar sua economia de energia.</p>
 
           <form action="https://formsubmit.co/lorenzolaux05@gmail.com" method="POST">
-            <input type="hidden" name="_next" value="/#"/>
-            <input type="text" name="name" placeholder="Nome" required/>
-            <input type="email" name="email" placeholder="Email" required/>
-            <textarea type="message" name="message" placeholder="Descrição (opcional)"/>
+            <input type="hidden" name="_next" value="http://localhost:3000/"/>
+            <input type="hidden" name="_subject" value="Novo contato!" />
+            <input type="hidden" name="_template" value="box" />
+            <input type="hidden" name="_captcha" value="false" />
+
+            <input type="text" name="Nome" placeholder="Nome" required/>
+            <input type="email" name="E-mail" placeholder="Email" required/>
+            <textarea type="message" name="Mensagem" placeholder="Descrição (opcional)"/>
             <button type="submit">Submeter</button>
           </form>
         </div>
