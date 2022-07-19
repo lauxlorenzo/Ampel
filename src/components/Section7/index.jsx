@@ -1,7 +1,7 @@
 import React from 'react'
 import './section7.css'
 
-import Graph from '../../assets/SVG/gráfico-desktop.svg'
+import Graph from '../../assets/SVG/gráfico-desktop.svg'
 import Arrow from '../../assets/SVG/seta.svg'
 
 function Section7() {
