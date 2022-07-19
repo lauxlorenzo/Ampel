@@ -9,7 +9,7 @@
   background-color: var(--orange);
   cursor: pointer;
 
-  padding: 1.4rem;
+  padding: 1.6rem;
 }
 
 .button-contact {
@@ -18,7 +18,7 @@
 
   color: var(--white);
   text-decoration: none;
-  font-weight: 100;
+  font-weight: 700;
   font-size: 0.6rem;
   letter-spacing: 2px;
 }
@@ -30,6 +30,14 @@
     bottom: 0;
     top: auto;
     right: 0;
+    padding: 1.4rem;
+
+    opacity: 0;
+    transition: .3s ease-in;
+  }
+
+  .button-opacity {
+    opacity: 1;
   }
 
   .button-contact {

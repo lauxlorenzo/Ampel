@@ -33,8 +33,8 @@ function Section8() {
 
         <h1>
           Já hoje em intensa atividade, a geração <br/>
-          fotovoltaica se divide basicamente <br/>
-          dois subgrupos
+          fotovoltaica se divide em basicamente <br/>
+          dois subgrupos:
         </h1>
       </div>
 

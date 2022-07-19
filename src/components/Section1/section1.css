@@ -25,6 +25,10 @@
   text-indent: 15rem;
 }
 
+.description {
+  width: 50%;
+}
+
 .section1-text {
   margin-top: 4rem;
 
@@ -40,8 +44,12 @@
   font-weight: 400;
 }
 
+.section1-image {
+  max-width: 40%;
+}
+
 .section1-image img {
-  max-width: 90%;
+  width: 100%;
   float: right;
 }
 
@@ -96,7 +104,7 @@
   }
 
   .section1-image {
-    width: 100vw;
+    max-width: 100%;
     margin-bottom: -5px;
   }
 

@@ -1,20 +1,19 @@
 import React from 'react'
 import './section1.css'
 
-import bg1 from '../../assets/Imagens/Desktop/Bg-1.jpg'
+import bg1 from '../../assets/Imagens/Desktop/Bg-1.png'
 
 function Section1() {
   return (
     <div className='Section1'>
       <div className='description'>
-
         <div className='section1-title'>
           <p>OPORTUNUNIDADE</p>
 
           <h1>
-            Conhecer o ambiente <br/>
-            energético é principal para o melhor e<br/>
-            mais econômico uso e gestão da energia<br/>
+            Conhecer o ambiente 
+            energético é principal para o melhor e
+            mais econômico uso e gestão da energia
             em seu negócio.
           </h1>
         </div>

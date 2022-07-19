@@ -1,7 +1,7 @@
 import React from 'react'
 import './section5.css'
 
-import Bg3 from '../../assets/Imagens/Desktop/Bg-3.jpg'
+import Bg3 from '../../assets/Imagens/Desktop/Bg-3.png'
 
 function Section5() {
   return (

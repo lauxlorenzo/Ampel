@@ -1,5 +1,5 @@
 .Section5 {
-  background: no-repeat center/cover url('../../assets/Imagens/Desktop/Bg-3.jpg');
+  background: no-repeat center/cover url('../../assets/Imagens/Desktop/Bg-3.png');
   color: var(--white);
 
   max-width: 100vw;
@@ -8,15 +8,14 @@
   flex-direction: row;
   justify-content: space-between;
 
-  padding: 4rem 4rem 32rem 4rem;
+  padding: 6rem 4rem 34rem 4rem;
 }
 
 .section5-description p {
   font-weight: 400;
   font-size: 0.8rem;
 
-  width: 40%;
-  float: right;
+  width: 50%;
 }
 
 .section5-title h1 {
@@ -30,16 +29,17 @@
 
 @media (max-width: 840px) {
   .Section5 {
-    background: no-repeat center/cover url('../../assets/Imagens/Mobile/Bg-3.jpg');
     flex-direction: column;
 
-    padding: 6rem 2rem 30rem 2rem;
+    padding: 6rem 2rem 60rem 2rem;
   }
 
   .section5-description p {
     padding-top: 3rem;
     font-size: 1rem;
     width: 60%;
+
+    float: right;
   }
 }
 
