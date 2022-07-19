@@ -100,7 +100,11 @@
     margin: 0;
 
     max-width: 40rem;
-    padding: 0 0 4rem 3rem;
+    padding-left: 3rem;
+  }
+
+  .section1-text p:last-child {
+    padding: 2rem 0 6rem 3rem;
   }
 
   .section1-image {

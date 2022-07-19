@@ -86,6 +86,10 @@
 
     flex-wrap: wrap-reverse;
   }
+
+  .section2-separator {
+    margin-top: 4.8rem;
+  }
   
   .section2-description {
     padding: 6rem 2rem 0 2rem;
