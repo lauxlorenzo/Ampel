@@ -3,11 +3,11 @@
 
   background: no-repeat center/cover url('../../assets/Imagens/Desktop/Bg-4.png');
 
-  padding: 15rem 4rem;
+  padding: 10rem 4rem;
 }
 
 @media (max-width: 840px) {
   .Section10 {
-    padding: 20rem 4rem;
+    padding: 10rem 4rem;
   }
 }
