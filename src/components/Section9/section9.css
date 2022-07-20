@@ -11,7 +11,7 @@
   justify-content: space-between;
   align-items: center;
 
-  padding: 15rem 4rem 2rem 4rem;
+  padding: 14rem 4rem 3rem 4rem;
 }
 
 .section9-title h1 {
@@ -149,7 +149,7 @@
   .section9-title p {
     font-weight: 400;
     font-size: 1rem;
-    max-width: 80%;
+    max-width: 100%;
 
     padding-top: 2rem;
   }
