@@ -12,8 +12,8 @@ function Section11() {
           <h1>Entre em contato</h1>
           <p>Juntos, encontraremos a melhor forma de potencializar sua economia de energia.</p>
 
-          <form action="https://formsubmit.co/lorenzolaux05@gmail.com" method="POST">
-            <input type="hidden" name="_next" value="http://localhost:3000/"/>
+          <form action="https://formsubmit.co/nelsongarcia@ampelenergia.com.br" method="POST">
+            <input type="hidden" name="_next" value="http://ampelenergia.com"/>
             <input type="hidden" name="_subject" value="Novo contato!" />
             <input type="hidden" name="_template" value="box" />
             <input type="hidden" name="_captcha" value="false" />
@@ -29,13 +29,13 @@ function Section11() {
           <div className='infos'>
             <div className='infos-content'>
               <h1>Endereço</h1>
-              <p>R. Eng. Ezequiel de Campos, 200 4100-228 Porto, Portugal</p>
+              <p>Rua Gomes Carneiro, n. 137, sala 603, Ipanema, Rio de Janeiro. CEP: 22071-110</p>
 
               <h1>Telefone</h1>
-              <p>+55 (99) 99999-9999</p>
+              <p>+55 (21) 97599.4336</p>
 
               <h1>Email</h1>
-              <p>contato@exemplo.com.br</p>
+              <p>nelsongarcia@ampelenergia.com.br</p>
             </div>
           </div>
 
