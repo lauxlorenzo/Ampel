@@ -1,7 +1,7 @@
 import React from 'react'
 import './section6.css'
 
-import Graph from '../../assets/SVG/gráfico-pizza-desktop.svg'
+import Graph from '../../assets/SVG/gráfico-pizza-desktop.png'
 
 function Section6() {
   return (
