@@ -2,6 +2,7 @@ import React from 'react'
 import './section7.css'
 
 import Arrow from '../../assets/SVG/seta.svg'
+import Graph from '../../assets/Imagens/Desktop/gráfico-desktop.png'
 
 function Section7() {
   return (
@@ -23,7 +24,7 @@ function Section7() {
       </div>
 
       <div className='section7-graph'>
-        <img src="../../assets/SVG/gráfico-desktop.png" alt="" />
+        <img src={Graph}/>
       </div>
 
       <div className='section7-legend'>
