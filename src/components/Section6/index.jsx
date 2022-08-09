@@ -1,7 +1,6 @@
 import React from 'react'
 import './section6.css'
 
-import Graph from '../../assets/SVG/gráfico-pizza-desktop.png'
 
 function Section6() {
   return (
@@ -17,7 +16,7 @@ function Section6() {
           na próxima década.
         </h1>
 
-        <img src={Graph} alt="" />
+        <img src="../../assets/SVG/gráfico-pizza-desktop.png" alt="" />
 
         <p>Fonte: ANEEL/ABSOLAR, 2022</p>
       </div>

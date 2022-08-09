@@ -1,7 +1,6 @@
 import React from 'react'
 import './section7.css'
 
-import Graph from '../../assets/SVG/gráfico-desktop.png'
 import Arrow from '../../assets/SVG/seta.svg'
 
 function Section7() {
@@ -24,7 +23,7 @@ function Section7() {
       </div>
 
       <div className='section7-graph'>
-        <img src={Graph} alt="" />
+        <img src="../../assets/SVG/gráfico-desktop.png" alt="" />
       </div>
 
       <div className='section7-legend'>
